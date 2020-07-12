@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&family=Ubuntu:wght@500&display=swap');
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+body{
+
+  background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.6)), url("https://image.shutterstock.com/image-photo/open-book-on-table-library-600w-1691404792.jpg");
+  background-size: cover;
+  color: rgba(0,0,0,.8);
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: rgba(17, 29, 94, .7) !important;
+    font-weight: bolder;
+}
+.navbar-nav  li a:hover {
+    color: #111 !important;
+}
+.footer-padding {
+	padding-bottom: 60px;
+}
+.footer {
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+}
+.footer p {
+	margin-top: 25px;
+	font-size: 15px;
+  color: #111;
+}
+.navbar-brand {
+  color: #ffffff !important;
+}
+.upper{
+  color: #ffffff !important;
+}
+h1{
+  font-family: "Montserrat";
+}
+p{
+  font-family:  "Roboto Mono";
+}
+#fc-icon:hover{
+  color: #3b5998;
+}
+#insta-icon:hover{
+ color:#e1306c;
+}
+#twitter-icon:hover{
+  color: #00acee;
+}
+#gmail-icon:hover{
+  color: #d44638;
+}
+.social-icons{
+  margin-right: 20px;
+  font-size: 5rem;
+}
+.contact-page{
+  text-align: center;
+}
